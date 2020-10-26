@@ -1,0 +1,18 @@
+{
+  "name": "@jchip/use-b",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@jchip/circ-2": "2.0.0",
+    "@jchip/circ-1": "2.0.0"
+  },
+  "files": [],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
